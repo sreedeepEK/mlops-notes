@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Workspace/MLops/mflow/mlruns/704531571517749298/b557309ddb2a4cdc948b0e61f1982c60/artifacts
+end_time: 1750320919706
+entry_point_name: ''
+experiment_id: '704531571517749298'
+lifecycle_stage: active
+run_id: b557309ddb2a4cdc948b0e61f1982c60
+run_name: powerful-gnat-230
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750320914049
+status: 3
+tags: []
+user_id: heysr

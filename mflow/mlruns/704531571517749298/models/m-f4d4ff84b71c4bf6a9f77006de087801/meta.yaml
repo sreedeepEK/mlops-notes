@@ -1,0 +1,10 @@
+artifact_location: file:///D:/Workspace/MLops/mflow/mlruns/704531571517749298/models/m-f4d4ff84b71c4bf6a9f77006de087801/artifacts
+creation_timestamp: 1750320914097
+experiment_id: '704531571517749298'
+last_updated_timestamp: 1750320919669
+model_id: m-f4d4ff84b71c4bf6a9f77006de087801
+model_type: null
+name: iris_model
+source_run_id: b557309ddb2a4cdc948b0e61f1982c60
+status: 2
+status_message: null
