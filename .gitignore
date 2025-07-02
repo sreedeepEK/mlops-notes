@@ -2,3 +2,5 @@
 /mlflow 
 .mlruns
 /mlruns 
+.mlflow_2/mlruns
+mlruns/
